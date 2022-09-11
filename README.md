@@ -5,3 +5,9 @@
 ```bash
 yarn dev
 ```
+
+## 開発サーバーの起動 (ホットリロードなし)
+
+```bash
+yarn build && yarn start
+```
